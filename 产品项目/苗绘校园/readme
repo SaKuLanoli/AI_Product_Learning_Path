@@ -1,1 +1,20 @@
-
+一、文件内容介绍
+  本项目文件夹同步workflow的逻辑进行叙述
+  · IDEATE：你的用户是谁？为什么这个问题值得用AI来解决？MVP到底是什么？
+  · PLAN
+      >> 01 FEATURES 产品需要哪些功能？
+      >> 02 ARCHITECTURE 整体架构怎么设计？
+      >> 03 TECH STACH 技术栈应该用什么？
+      >> 04 DATABASE + APIs 需要什么数据库与API？
+      >> 05 BREAK INTO TASKs 如何搞成可执行的Task？
+  · BUILD + DESIGN + VERIFY
+      - AI VERIFY CHECKLIST
+        >> 01 RUN TESTS 运行测试
+        >> 02 RUN BUILD 检查构建
+        >> 03 CHECK ERRORS 排查错误
+        >> 04 CHECK LINKS 检查链接
+        >> 05 SELF-REVIEW + FIX 自查并修复一轮
+  · GITHUB
+  · PR + REVIEW
+  · DEPLOY
+  · ITEARATION
